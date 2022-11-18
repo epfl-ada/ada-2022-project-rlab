@@ -12,7 +12,9 @@ In what extent is the film industry displaying an accurate representation of tod
 Answering such large question can be done by dividing it in a subset of questions:
 
 A) Are the different ethnicities and sex as represented as they are in real life? 
+
 B) If there is a difference in representation, where does it occur most? In which geographical area? In which movie genre?
+
 C) How is the representation evolving with the increase of box office?
 
 ## Proposed additional dataset
@@ -22,37 +24,44 @@ This dataset will provide us with base informations about ethnicities and sex re
 
 ## Methods
 
-Methods used, which comparisons. What has already been done (put pictures here)
+**Step 1: Pre-processing data:**
+Since only a part of the additional dataset will be relevant for the study, the unused attributes will be cleaned from the dataset. The countries not included in the CMU Movie Summary Corpus will not be used for this study, and the corresponding rows will therefore be deleted.
+
+**Step 2: General Analysis:**
+To get an idea of global trends existing, preliminary analysis on the CMU Movie Summary Corpus will be conducted:
+ADD PICTURES + CAPTION
+Sex:
+Ethnicity:
+Nicolas’ plot with genre and time:
+
+**Step 3: Going deeper:**
+After the identification of a possible trend, deeper analysis will allow to confirm the relevance of such a trend. Statistical tools such as t-tests and bootstrapping functions will be use in this part. Based on the analysis already done in Step 2, the following trends will be discussed:
+	* Sex and Ethnicity representation are different based on movie genre
+	* Sex and Ethnicity representation are different based on movie box office
+	* The age of actors differs based on their sex
+	* Ethnicity and sex representation are different based on movie home country
+
+**Step 4: Constructing the visualization and the story to present the data**
 
 ## Proposed timeline
 
-{{< timeline >}}
+* 30th November: Data Analysis 
+            
+    We will analyse our data further. More precisely we will normalize our data to be able to compare representations between movies. We will as well statistically analyse our results to be able to get correlations. 
+        
+* 2nd December: Homework 2 Deadline
+* 7th December: Significant Analysis
 
-    {{% event title="Data Analysis" year="30th November"%}}
-   We will analyse our data further. More precisely we will normalize our data to be able to compare representations between movies. We will as well statistically analyse our results to be able to get correlations. 
-    {{% /event %}}
+    We will compare each finding and look for the most significant analysis. 
 
-    {{% event title="Homework 2 Deadline" year="2nd December"%}}
+* 14th December: Additional Analysis    
+    Additional analysis will be done in correlation with the most significant analysis to support them. While doing so we will start working on our data story.
     
-    {{% /event %}}
-    
-    {{% event title="Significant Analysis" year="7th December"%}}
-   We will compare each finding and look for the most significant analysis. 
-    {{% /event %}}
-    
-    {{% event title="Additional Analysis" year="14th December"%}}
-   Additional analysis will be done in correlation with the most significant analysis to support them. While doing so we will start working on our data story.
-    {{% /event %}}
-    
-    {{% event title="Final cleanups and data story" year="14th December"%}}
-   Final cleanups of the code and plots will be made. Additionally, we will finish the data story
-    {{% /event %}}
+* 21st December: Final cleanups and data story
+    Final cleanups of the code and plots will be made. Additionally, we will finish the data story   
 
-    {{% event title="Project Deadline" year="23rd December" %}}
-   Final modifications will be made.
-    {{% /event %}}
-
-{{< /timeline >}}
+* 23rd December: Project Deadline  
+    Final modifications will be made.
 
 ## Team organisation
 
@@ -91,12 +100,3 @@ Methods used, which comparisons. What has already been done (put pictures here)
 
 Questions to the TAs: Are we following the right path, is our story a good story, enough storyful and storylike
 Methds are okay, enough data analysis ?
-
-
-Steps : sexe qui lead à regarder par rapport au temps et au genre. 
-
-first analysis done : countries, release dates, genre, ethnicity
-
-ajouter limitations (datas manquantes, temps d'écran, audience type)
-
-Ajouter images
