@@ -29,10 +29,24 @@ Since only a part of the additional dataset will be relevant for the study, the 
 
 **Step 2: General Analysis:**
 To get an idea of global trends existing, preliminary analysis on the CMU Movie Summary Corpus will be conducted:
-ADD PICTURES + CAPTION
-Sex:
-Ethnicity:
-Nicolas’ plot with genre and time:
+
+<p align="center">
+	Sex Representation across movie genres
+</p>
+<p align="center">
+  <img src="data/Sex_representation_across_movie_genres.png" alt="Sex representation" width="400"/>
+
+
+_General analysis of sex representation across the most present movie genres. We can observe an important difference between men and women role distribution. To continue our analysis we will look at the evolution of sex representation across time._
+
+
+<p align="center">
+	Ethnic count across time in US
+</p>
+<p align="center">
+  <img src="data/Ethnic_count_US.png" alt="Ethnicities" width="400"/>
+
+_General count of different ethnicities in the US in particular. Some ethnicities are more present than others. However, we have seen a big limitation during this analysis: some ethnicities are very particular, such as irish americans, italian americans, african americans but others are very vague (Indians). We will be working on this limitations in further analysis._
 
 **Step 3: Going deeper:**
 After the identification of a possible trend, deeper analysis will allow to confirm the relevance of such a trend. Statistical tools such as t-tests and bootstrapping functions will be use in this part. Based on the analysis already done in Step 2, the following trends will be discussed:
