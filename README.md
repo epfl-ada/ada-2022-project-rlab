@@ -1,4 +1,27 @@
-"# ada-2022-project-rlab" 
+# Gender differences in movies
+Rlab - P2 Milestone
+
+## Abstract
+
+
+## Research questions
+
+
+## Dataset used
+
+
+## Methods
+
+
+## Proposed timeline
+
+
+## Team organisation
+
+
+## Remaining questions
+
+
 
 Steps : sexe qui lead à regarder par rapport au temps et au genre. 
 
