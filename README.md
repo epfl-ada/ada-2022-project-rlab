@@ -9,9 +9,10 @@ Why we do it, what story do we want to tell?
 
 Questions adressed during the project
 
-## Dataset used
+## Proposed additional dataset
 
-Only the movie summary
+* **AD1: [Population by national and/or ethnic group, sex and urban/rural residence](http://data.un.org/Data.aspx?d=POP&f=tableCode:26)** : 
+This dataset will provide us with base informations about ethnicities and sex representation in each country. We will only scrap the following attributes: "Country or Area", "Sex", "National and/or ethnic group", "Value".
 
 ## Methods
 
