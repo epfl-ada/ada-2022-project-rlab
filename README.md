@@ -1,4 +1,4 @@
-# Gender differences in movies
+# Sex and ethnic representation in movies
 Rlab - P2 Milestone
 
 ## Abstract
