@@ -3,7 +3,7 @@ Rlab - P2 Milestone
 
 ## Abstract
 
-The movie industry has received much criticism in the last few years due to poor representation, which impacts children's development. If children cannot find themselves in movie characters' it may impact their future self-esteem. Moreover, gender stereotypes have an impact on children's personality development. It is meaningful to acknowledge the lack of representation in the movie industry in order to improve it.
+The movie industry has received much criticism in the last few years due to poor representation, which impacts [children's development](https://academic.oup.com/jcr/article/32/1/119/1796308?login=true). If children cannot find themselves in movie characters' it may impact their future self-esteem. Moreover, gender stereotypes have an impact on children's personality development. It is meaningful to acknowledge the lack of representation in the movie industry in order to improve it.
 This specific study analyzes sex and ethnic representation in the movie industry. Additionally, an exploration of the representation evolution across time is present to determine if the movie industry is trying to better reflect our society, which would positively impact children's development.  
 
 ## Research questions
