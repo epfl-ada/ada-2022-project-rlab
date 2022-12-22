@@ -77,7 +77,9 @@ For example, certain ethnicities, such as Jews, may be more likely to be cast in
   
   In the United States, it is not uncommon for African Americans to be cast in action movies and for Jewish actors to be cast in comedy films. This can perpetuate certain beliefs about the inherent characteristics of these ethnicities, such as the expectation that African Americans embody traditional masculine stereotypes and that Jewish people are inherently funny. Unfortunately, this also reinforces ethnic stereotypes, which can have an impact on the development of children and young people.
   
-In movies from the UK, it is common for individuals from various ethnicities to be cast in drama films, which suggests that the drama genre is particularly popular. However, we also observe that some ethnicities, such as Scottish and Jewish actors, are often cast in comedy films. This non-uniform distribution of ethnicities in different film genres can contribute once again to the reinforcement of ethnic stereotypes
+In movies from the UK, it is common for individuals from various ethnicities to be cast in drama films, which suggests that the drama genre is particularly popular. However, we also observe that some ethnicities, such as Scottish and Jewish actors, are often cast in comedy films. This non-uniform distribution of ethnicities in different film genres can contribute once again to the reinforcement of ethnic stereotypes.
+  
+  In India, certain ethnicities tend to be featured in particular movie genres. For example, Malayali people are often well-represented in drama films. As in the UK, drama movies are among the most popular. Here we cannot forget that limitations have arised in ethnic data analysis in Idian movies. 
   
 <p align="center">
 </p>
