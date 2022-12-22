@@ -1,34 +1,34 @@
-# Sex and ethnic representation in movies
+# Exploring Sex and Ethnic Representation in the Movie Industry
 Rlab - P2 Milestone
 
 ## Abstract
 
-The movie industry has received much criticism in the last few years due to poor representation, which impacts [children's development](https://academic.oup.com/jcr/article/32/1/119/1796308?login=true). If children cannot find themselves in movie characters' it may impact their future [self-esteem](https://journals.sagepub.com/doi/abs/10.1177/0093650211401376?casa_token=qWL-ksfuHq0AAAAA:HXhak7Oc2IDO5k4K9E4jegSGUxQl5SP-lsz5972E6aiIQyR3Ns0IIWdmHFhANhDLR2hvFKM-g6SAEMI). Moreover, gender stereotypes have an impact on children's personality development. It is meaningful to acknowledge the lack of representation in the movie industry in order to improve it.
-This specific study analyzes sex and ethnic representation in the movie industry. Additionally, an exploration of the representation evolution across time is present to determine if the movie industry is trying to better reflect our society, which would positively impact children's development.  
+ The movie industry has faced criticism in recent years for its lack of representation, which can have negative impacts on [children's development](https://academic.oup.com/jcr/article/32/1/119/1796308?login=true) and [self-esteem](https://journals.sagepub.com/doi/abs/10.1177/0093650211401376?casa_token=qWL-ksfuHq0AAAAA:HXhak7Oc2IDO5k4K9E4jegSGUxQl5SP-lsz5972E6aiIQyR3Ns0IIWdmHFhANhDLR2hvFKM-g6SAEMI).
+ 
+ This study aims to examine the extent to which the film industry accurately represents today's society in terms of sex and ethnicity. To do this, we will analyze data from the CMU Movie Summary Corpus and an additional dataset on population demographics. Our analysis will focus on the representation of different ethnicities and sexes across various movie genres, geographical areas, and box office success. We will also track the evolution of representation over time to determine if the industry is making progress in better reflecting society.
+ 
 
 ## Research questions
 
 In what extent is the film industry displaying an accurate representation of today’s society?
 Answering such large question can be done by dividing it in a subset of questions:
 
-A) Are the different ethnicities and sex as represented as they are in real life? 
+A) How accurately is the film industry representing different ethnicities and sexes compared to real-life demographics?
 
-B) If there is a difference in representation, where does it occur most? In which geographical area? In which movie genre?
+B) In what areas (e.g. genre, geographical region) is there the most discrepancy in representation?
 
-C) How is the representation evolving with the increase of box office?
+C) How is this representation evolving over time?
 
-## Proposed additional dataset
-
-* **AD1: [Population by national and/or ethnic group, sex and urban/rural residence](http://data.un.org/Data.aspx?d=POP&f=tableCode:26)** : 
-This dataset will provide us with base informations about ethnicities and sex representation in each country. We will only scrap the following attributes: "Country or Area", "Sex", "National and/or ethnic group", "Value".
 
 ## Methods
 
 **Step 1: Pre-processing data:**
-Since only a part of the additional dataset will be relevant for the study, the unused attributes will be cleaned from the dataset. The countries not included in the CMU Movie Summary Corpus will not be used for this study, and the corresponding rows will therefore be deleted.
+
+We are cleaning and preparing the datasets for analysis by removing unnecessary attributes and eliminating countries not included in the CMU Movie Summary Corpus.
 
 **Step 2: General Analysis:**
-To get an idea of global trends existing, preliminary analysis on the CMU Movie Summary Corpus will be conducted:
+
+We are conducting preliminary analysis on the CMU Movie Summary Corpus to identify global trends in sex and ethnic representation across various movie genres. We are also examining the evolution of representation over time.
 
 <p align="center">
 	Sex Representation across movie genres
@@ -37,7 +37,7 @@ To get an idea of global trends existing, preliminary analysis on the CMU Movie 
   <img src="data/Sex_representation_across_movie_genres.png" alt="Sex representation" width="400"/>
 
 
-_General analysis of sex representation across the most present movie genres. We can observe an important difference between men and women role distribution. To continue our analysis we will look at the evolution of sex representation across time._
+_We are observing an important difference between men and women role distribution across the most present movie genres. To continue our analysis, we are looking at the evolution of sex representation over time._
 
 
 <p align="center">
@@ -46,36 +46,27 @@ _General analysis of sex representation across the most present movie genres. We
 <p align="center">
   <img src="data/Ethnic_count_US.png" alt="Ethnicities" width="400"/>
 
-_General count of different ethnicities in the US in particular. Some ethnicities are more present than others. However, we have seen a big limitation during this analysis: some ethnicities are very particular, such as irish americans, italian americans, african americans but others are very vague (Indians). We will be working on this limitations in further analysis._
+_We are examining the general count of different ethnicities in the US in particular. Some ethnicities are more present than others, but we have seen a big limitation during this analysis: some ethnicities are very particular (e.g. Irish Americans, Italian Americans, African Americans) but others are very vague (e.g. Indians). We are working on addressing these limitations in further analysis._
 
 **Step 3: Going deeper:**
-After the identification of a possible trend, deeper analysis will allow to confirm the relevance of such a trend. Statistical tools such as t-tests and bootstrapping functions will be use in this part. Based on the analysis already done in Step 2, the following trends will be discussed:
-	* Sex and Ethnicity representation are different based on movie genre
-	* Sex and Ethnicity representation are different based on movie box office
-	* The age of actors differs based on their sex
-	* Ethnicity and sex representation are different based on movie home country
 
-**Step 4: Constructing the visualization and the story to present the data**
+Using statistical tools such as linear regressions and confidence intervals, we are delving deeper into trends identified in the previous step, including:
+* Sex and Ethnicity representation are different based on movie genre
+* The age of actors differs based on their sex
+* Ethnicity and sex representation are different based on movie home country
 
-## Proposed timeline
+**Step 4: Constructing the Visualization and Presenting the Data**
 
-* 30th November: Data Analysis 
-            
-    We will analyse our data further. More precisely we will normalize our data to be able to compare representations between movies. We will as well statistically analyse our results to be able to get correlations. 
-        
-* 2nd December: Homework 2 Deadline
-* 7th December: Significant Analysis
+We are constructing visualizations and a narrative to effectively communicate the results of our analysis. The website can be found at [this address](https://annalasne.wixsite.com/rlab-ada-project)
 
-    We will compare each finding and look for the most significant analysis. 
 
-* 14th December: Additional Analysis    
-    Additional analysis will be done in correlation with the most significant analysis to support them. While doing so we will start working on our data story.
-    
-* 21st December: Final cleanups and data story
-    Final cleanups of the code and plots will be made. Additionally, we will finish the data story   
+## Organisation of the repository
 
-* 23rd December: Project Deadline  
-    Final modifications will be made.
+The repository includes:
+* A ReadMe file providing an overview of the project
+* A storyline outlining the basis for the website
+* A notebook containing all the statistical analysis and plots used in the project
+
 
 ## Team organisation
 
@@ -110,7 +101,4 @@ After the identification of a possible trend, deeper analysis will allow to conf
 </tbody>
 </table>
 
-## Remaining questions
 
-Questions to the TAs: Are we following the right path, is our story a good story, enough storyful and storylike
-Methds are okay, enough data analysis ?

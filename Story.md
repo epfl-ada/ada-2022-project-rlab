@@ -80,26 +80,32 @@ In films from the UK, we often see certain ethnicities cast in specific genres. 
   
 In India, it is common to see certain ethnicities featured in particular film genres. For instance, Malayali actors may be more likely to appear in drama films, while Bengali actors may be more prevalent in world cinema. Additionally, Punjabis are often well-represented in the popular Bollywood films. It is worth noting that there are limitations in analyzing ethnic data in Indian films.
   
+Overall, we have observed that some ethnicities are more prominently represented in certain film genres. As mentioned earlier, a lack of representation can be a significant issue during child development. While we have seen an increase in ethnic representation over time, the pace of change has not been as rapid as it could be.
+  
 <p align="center">
 </p>
 <p align="center">
   <img src="data/Genres_ethnicities.png" alt="Ethnic representation in function of genres, worldwide" width="400"/>
 
 ### LGBT
-Finally, we looked into the representation of LGBT individuals in the movie industry. Our analysis showed that only 1% of movies released in 2016 featured LGBT characters. This is a very small proportion and should be increased. However, there has been a steady increase in LGBT representation in the movie industry over the past century, which indicates that the industry is changing and becoming more inclusive.
+ [Research](https://www.tandfonline.com/doi/full/10.1080/00918369.2015.1021634?casa_token=s-4hvtU0OcYAAAAA%3AqJZurcrF5koASpzbOzAKZd3wUCatKx5Tmd_-JKdY3O3NEnoPgAGdp842QPXCXispzPLuapi-vxs38iA) has shown that a lack of representation of LGBT individuals can have negative consequences for young children who may identify with this community. It can affect their self-esteem, self-image, and understanding of the diversity of the world around them, potentially contributing to the perpetuation of discrimination and prejudice.
+Our analysis found that only 0.5% of movies released in 2012 featured LGBT characters. This is a small percentage considering that up to [4%](https://www.ipsos.com/sites/default/files/ct/news/documents/2021-06/LGBT%20Pride%202021%20Global%20Survey%20Report_3.pdf) of Gen Z identify as LGBTQ+. 
 
-Despite this progress, there is still a significant lack of representation for LGBT individuals in the movie industry. This can have negative effects on LGBT individuals, who may not see themselves or their experiences reflected in the media they consume. It can also contribute to the perpetuation of harmful stereotypes and discrimination against LGBT individuals.
+There has been a gradual increase in LGBTQ+ representation in the film industry over the past century, which suggests that the industry is becoming more inclusive. However, from 2010 to 2012, representation significantly decreased from 2.5% to 0.5%. Overall, there is still a significant lack of representation for LGBTQ+ individuals in the film industry. This can have negative impacts on LGBTQ+ individuals who may not see themselves or their experiences represented in the media they consume. It can also perpetuate harmful stereotypes and discrimination against LGBTQ+ individuals.
   
 <p align="center">
 </p>
 <p align="center">
   <img src="data/LGBT_time.png" alt="LGBT representation across time, worldwide" width="400"/>
-
-Furthermore, [studies](https://www.tandfonline.com/doi/full/10.1080/00918369.2015.1021634?casa_token=s-4hvtU0OcYAAAAA%3AqJZurcrF5koASpzbOzAKZd3wUCatKx5Tmd_-JKdY3O3NEnoPgAGdp842QPXCXispzPLuapi-vxs38iA) have shown that a lack of LGBT representation can negatively impact the development of young children who may identify with this community. It can affect their self-esteem and self-image, and limit their understanding of the diversity of the world around them. This can contribute to the perpetuation of discrimination and prejudice.
+  
+ Our analysis revealed that the characters depicted in LGBTQ+ films are often represented by specific ethnicities, with English and Jewish actors being particularly prevalent. This distribution of ethnicities may perpetuate stereotypes about certain ethnicities and suggest that they are more or less accepting of the LGBTQ+ community.
+  
+ We analyzed the film genres that depicted LGBT characters to determine if any harmful stereotypes were present. It is important to consider the potential impact on children who identify as LGBTQ+ and may see these representations
+  
   
 
 ### Conclusion  
   
-Our analysis of the movie industry revealed significant disparities in the representation of different sexes, ethnicities, and LGBT individuals. While there has been some progress in recent years, these groups are still underrepresented in the industry compared to their proportions in the global population. This lack of representation can have negative effects on members of these groups, who may not see themselves or their experiences reflected in the media they consume. It can also contribute to the perpetuation of harmful stereotypes and discrimination.Furthermore, this lack of representation can have negative effects on the development of children who consume media. It can also limit their understanding of the diversity of the world around them and contribute to the perpetuation of discrimination and prejudice.
+Our analysis of the movie industry revealed significant disparities in the representation of different sexes, ethnicities, and LGBTQ+ individuals. While there has been some progress in recent years, these groups are still underrepresented in the industry compared to their proportions in the global population. This lack of representation can have negative effects on members of these groups, who may not see themselves or their experiences reflected in the media they consume. It can also contribute to the perpetuation of harmful stereotypes and discrimination. Furthermore, this lack of representation can have negative effects on the development of children who consume media. It can also limit their understanding of the diversity of the world around them and contribute to the perpetuation of discrimination and prejudice.
 
 It is important for the movie industry to continue working towards better representation for all sexes, ethnicities, and LGBT individuals in order to create a more inclusive and accurate portrayal of society. This can help to promote equality and combat prejudice and discrimination. By striving for greater representation, the movie industry can play a role in promoting a more inclusive and diverse society, and in fostering the healthy development of children.
