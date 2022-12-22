@@ -11,6 +11,8 @@ It is important for children to see themselves represented in the media they con
 ### Girls vs boys 
   
 In 2013, only 28.8% of main characters in US movies were female. This representation is slightly higher in European countries such as France and the UK and way higher in India. While the global population has a relatively [equal ratio](https://countrymeters.info/en/World) of males and females, this is not reflected in the movie industry. However, there has been a steady improvement in the representation of the two sexes in the movie industry since the 20th century, though perhaps not at a fast enough pace. This lack of representation can have negative effects on girls, who may not see themselves or their experiences reflected in the media they consume. It is important for the movie industry to continue working towards better representation for both sexes in order to create a more inclusive and accurate portrayal of society.
+  
+There is a noticeable variance in the gender ratio of film characters between the 1940s and 1960s. This may be due to the fact that the movie industry was just starting to take off at that time, and was also heavily influenced by major events such as World War II and the Cold War ([Yang et al., 2020](https://dl.acm.org/doi/10.1145/3411213)). After the 1960s, the gender ratio in film became more stable. It's also worth noting that while there has been some progress in terms of increased representation of female characters in film in recent decades, this progress has been slow and uneven.
  
  <p align="center">
 </p>
@@ -39,6 +41,8 @@ This age gap can have significant consequences for the careers of actresses. For
 </p>
 <p align="center">
   <img src="data/Age_sex_time.png" alt="Movie genres in function of sexes" width="400"/>
+  
+ In general, there is a lack of representation of women in film. When they do appear, they are often limited to stereotypical roles, such as the young romantic interest or family caregiver. Meanwhile, men are often depicted as heroic and brave in their mid 40s. These societal stereotypes are evident in the movie industry.
   
 ### Ethnicities 
 Our study of ethnic representation in movies revealed that certain groups are underrepresented, similar to the situation with sex representation in the industry. This was a challenging analysis as it depends on the country of origin of the movies. As such, we conducted our analysis on a continental level. It is important to note that we are discussing ethnicity, not race. These two terms are often used interchangeably, but they refer to different things.
