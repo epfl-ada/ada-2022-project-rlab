@@ -64,6 +64,8 @@ It is crucial to differentiate between ethnicity and race because they are not t
 </p>
 <p align="center">
   <img src="data/Ethnicities_US_time.png" alt="Ethnic representation across time, worldwide" width="400"/>
+  
+  This analysis looked at the representation of different ethnicities in French film, as a way to examine ethnic representation in Europe through the lens of a country that is heavily involved in the movie industry. It's important to note that this analysis has some limitations. For example, the data on African Americans in French films is incorrect; this percentage would actually correspond to Algerian and Moroccan Berber people, based on [France's ethnic composition](https://www.britannica.com/place/France/People). Additionally, Moroccan and Algerian Arabs, who make up a significant portion of the French population, are underrepresented in French movies. Despite these limitations, the analysis does show an increase in the representation of various ethnicities in French film over the last few decades.
  
 In addition to examining the overall representation of different ethnicities in the movie industry, we also looked at the specific genres in which they were more likely to be represented. This analysis revealed that certain ethnicities are more heavily associated with certain genres, which can lead to stereotypes. Some of these stereotypes may be used for comedic effect, but they can also have negative consequences.
 
