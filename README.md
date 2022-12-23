@@ -2,7 +2,7 @@
 
 ## Storyline
 
-The story, the depth data analysis and presentation can be found in *Story.md*, please refer to it for P3. Below is the submitted readme for P2 as well as the updated version of the task distribution.
+The story, the depth data analysis and presentation can be found in *Story.md*, please refer to it or the website linked at the end for more information.
 
 Rlab - P2 Milestone
 
