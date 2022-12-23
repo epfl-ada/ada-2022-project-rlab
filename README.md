@@ -1,4 +1,9 @@
 # Exploring Sex and Ethnic Representation in the Movie Industry
+
+## Storyline
+
+The story, the depth data analysis and presentation can be found in *Story.md*, please refer to it for P3. Below is the submitted readme for P2 as well as the updated version of the task distribution.
+
 Rlab - P2 Milestone
 
 ## Abstract
