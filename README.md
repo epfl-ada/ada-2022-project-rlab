@@ -4,8 +4,6 @@
 
 The story, the depth data analysis and presentation can be found in *Story.md*, please refer to it or the website linked at the end for more information.
 
-Rlab - P2 Milestone
-
 ## Abstract
 
  The movie industry has faced criticism in recent years for its lack of representation, which can have negative impacts on [children's development](https://academic.oup.com/jcr/article/32/1/119/1796308?login=true) and [self-esteem](https://journals.sagepub.com/doi/abs/10.1177/0093650211401376?casa_token=qWL-ksfuHq0AAAAA:HXhak7Oc2IDO5k4K9E4jegSGUxQl5SP-lsz5972E6aiIQyR3Ns0IIWdmHFhANhDLR2hvFKM-g6SAEMI).
