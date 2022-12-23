@@ -96,7 +96,7 @@ The repository includes:
   </tr>
   <tr>
     <td class="tg-0lax">@Matthieu-Andre</td>
-    <td class="tg-0lax">Plot generation for sex representation and movies genres<br><br>Dataset exploration and code optimization<br><br>Contribute to the data story</td>
+    <td class="tg-0lax">Plot generation and data exploration for sex representation and movies genres<br><br>Dataset exploration and code optimization<br><br>Contribute to the data story</td>
   </tr>
 </tbody>
 </table>
