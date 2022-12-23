@@ -84,19 +84,19 @@ The repository includes:
 <tbody>
   <tr>
     <td class="tg-0lax">@anlasne</td>
-    <td class="tg-0lax">Come up with main visualizations<br><br>Continue exploring the dataset<br><br>Develop the final text for the data story</td>
+    <td class="tg-0lax">Determine which visualizations to perform on the dataset<br><br>Dataset exploration<br><br>Develop the final text for the data story and web page</td>
   </tr>
   <tr>
     <td class="tg-0lax">@NicolasRR</td>
-    <td class="tg-0lax">Statistical analysis<br><br>Clean up code<br><br>Develop the final text for the data story</td>
+    <td class="tg-0lax">Plot generation and data exploration for the different genres and ethnicities<br><br>Data exploration and code optimization<br><br>Contribute to the data story</td>
   </tr>
   <tr>
     <td class="tg-0lax">@tototobo</td>
-    <td class="tg-0lax">Develop the web interface<br><br>Analyze correlations and study them further<br><br>Develop the final text for the data story</td>
+    <td class="tg-0lax">Determine and perform the statistical analyses<br><br>Analyze correlations to improve the findings on the data<br><br>Develop the final text for the notebooks and story</td>
   </tr>
   <tr>
     <td class="tg-0lax">@Matthieu-Andre</td>
-    <td class="tg-0lax">Develop the web interface<br><br>Continue exploring the dataset<br><br>Develop the final text for the data story</td>
+    <td class="tg-0lax">Plot generation and data exploration for sex representation and movies genres<br><br>Dataset exploration and code optimization<br><br>Contribute to the data story</td>
   </tr>
 </tbody>
 </table>
